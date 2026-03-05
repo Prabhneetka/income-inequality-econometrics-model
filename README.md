@@ -1,4 +1,3 @@
-# income-inequality-econometrics-model
 # Income Inequality Econometrics Model
 
 ## Project Overview
